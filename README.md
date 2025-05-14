@@ -1,6 +1,6 @@
 # PLPDatabaseDesign
-#Restaurant Database (MySQL)
-##Overview
+# Restaurant Database (MySQL)
+## Overview
 This repository contains the SQL script to set up a fully-featured relational database for a restaurant business using MySQL. The database is structured to efficiently handle customer orders, menu items, payments, reservations, employees, suppliers, and inventory management.
 
 ## Database Schema
@@ -28,7 +28,7 @@ Inventory – Oversees stock availability and restocking.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/purpleknight/PLPDatabaseDesign.git>
 ```
 Import the SQL file into MySQL:
 ```bash
